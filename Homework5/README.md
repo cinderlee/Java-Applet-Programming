@@ -1,4 +1,5 @@
-Homework 5
+# Homework 5: Analog Clock
 
-Using graphics to design an analog clock
-Times are retrieved from time nist server
+Java graphics is used to design the analog clock.
+
+Times are retrieved from time nist server.
